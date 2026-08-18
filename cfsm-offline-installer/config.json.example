@@ -1,0 +1,14 @@
+{
+  "//": "国内服务器 url 必须使用自定义域名(如 probe.deepseo.us)，若使用 workers.dev 域名会因 GFW 拦截导致离线",
+  "id": "YOUR_SERVER_ID",
+  "secret": "YOUR_SECRET_KEY",
+  "url": "https://probe.deepseo.us/update",
+  "collect_interval": "0",
+  "interval": "60",
+  "connection_mode": "http",
+  "reset_day": "1",
+  "auto_update": "0",
+  "ct": "gd-ct-dualstack.ip.zstaticcdn.com",
+  "cu": "gd-cu-dualstack.ip.zstaticcdn.com",
+  "cm": "gd-cm-dualstack.ip.zstaticcdn.com"
+}
